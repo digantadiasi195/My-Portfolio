@@ -35,4 +35,10 @@
 
 ---
 
-Thank you for visiting my portfolio!
+## Getting Started
+
+To view the website locally, follow these steps:
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/digantadiasi195/My-Portfolio.git
